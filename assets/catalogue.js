@@ -1,0 +1,17 @@
+window.JSP_PRODUCTS = [
+  {id:'0059',name:'Diesel Engine Lawn Mower',category:'mowers',image:'diesel-mower.png',tag:'Engine powered',description:'Explore the 0059 series diesel model for your lawn-care requirements.',spec:'Diesel engine model'},
+  {id:'0054-B',name:'Roller Power Lawn Mower',category:'mowers',image:'roller-mower.png',tag:'Chain drive',description:'A roller-type power mower from the J.S.P range, with a chain-drive configuration.',spec:'Roller type · Chain drive'},
+  {id:'0051-C',name:'Side Wheel Lawn Mower',category:'mowers',image:'sidewheel-mower.png',tag:'Side wheel',description:'The 0051-C series side-wheel model from the J.S.P lawn mower collection.',spec:'Side-wheel configuration'},
+  {id:'0055-A',name:'Four Wheel Power Mower',category:'mowers',image:'fourwheel-mower.png',tag:'Four wheel',description:'A four-wheel power mower in the J.S.P catalogue. Ask about the available configuration.',spec:'Four-wheel configuration'},
+  {id:'0056',name:'Jungle King Power Mower',category:'mowers',image:'jungleking-mower.png',tag:'Jungle King',description:'Discover the Jungle King model in the four-wheel power mower range.',spec:'Four-wheel power model'},
+  {id:'0054-GT',name:'Gear Type Power Mower',category:'mowers',image:'gear-mower.png',tag:'Gear type',description:'The 0054-GT series offers a gear-type configuration in the power mower range.',spec:'Gear-type configuration'},
+  {id:'0054-E',name:'Engine Type Lawn Mower',category:'mowers',image:'engine-mower.png',tag:'Engine type',description:'An engine-type lawn mower from the official J.S.P product selection.',spec:'Engine-type configuration'},
+  {id:'0072',name:'Sleeve Handle Secateur',category:'cutting',image:'secateur.png',tag:'Precision pruning',description:'An 8-inch secateur with a sleeve handle for pruning tasks.',spec:'8-inch size · 12 mm cutting capacity'},
+  {id:'0073',name:'Heavy Hedge Shear',category:'cutting',image:'hedge-shear.png',tag:'Hedge care',description:'A 12-inch heavy hedge shear from the J.S.P cutting-tool range.',spec:'12-inch size'},
+  {id:'0078-C',name:'Flat Khurpa',category:'handtools',image:'khurpa.png',tag:'Soil care',description:'A flat khurpa with a wooden handle, listed in the J.S.P hand-tool collection.',spec:'3-inch stainless steel · Wooden handle'},
+  {id:'0096',name:'Revolving Grass Shear',category:'cutting',image:'grass-shear.png',tag:'Finishing touches',description:'A side grass shear with a revolving design for grass-trimming tasks.',spec:'Revolving side grass shear'},
+  {id:'0073-E',name:'Lopping Shear',category:'cutting',image:'lopping-shear.png',tag:'Branch care',description:'A lopping shear from the J.S.P pruning range.',spec:'15 mm cutting capacity'},
+  {id:'0131',name:'Garden Wheelbarrow',category:'accessories',image:'wheelbarrow.png',tag:'Garden essentials',description:'The 0131 series wheelbarrow, part of the J.S.P garden equipment collection.',spec:'0131 series'},
+  {id:'0106',name:'Hose Pipe Reel Stand',category:'accessories',image:'hose-reel.png',tag:'Watering',description:'A reel stand for organising a half-inch garden hose.',spec:'For ½-inch hose pipe'},
+  {id:'0097',name:'Brass Garden Sprinkler',category:'accessories',image:'sprinkler.png',tag:'Watering',description:'A brass sprinkler supplied with a heavy-duty wheeled stand.',spec:'Brass sprinkler · Wheeled stand'}
+];
