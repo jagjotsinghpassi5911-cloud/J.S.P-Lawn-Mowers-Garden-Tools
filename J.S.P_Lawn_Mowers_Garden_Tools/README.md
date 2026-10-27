@@ -92,22 +92,6 @@ Business purpose: help customers explore the range, shortlist product models and
 
 Technology: HTML5, CSS3 and JavaScript. Deployment target: Firebase Hosting. Backend: none.
 
-J.S.P already has an official website, so this project is accurately described as a **redesign**. The supplied assignment prefers a business without a website. Confirm that your teacher accepts a redesign before submitting the topic. Enter your own correct name and roll number in the project sheet; this package does not submit that sheet.
 
-## Source and image credits
-
-Official company website: https://www.jspgardentools.in/
-
-- Business history: https://www.jspgardentools.in/about.php
-- Mower models: https://www.jspgardentools.in/lawn_mowers.php
-- Garden accessories: https://www.jspgardentools.in/garden_tools.php
-- Cutting tools: https://www.jspgardentools.in/garden_tools1.php
-- Contact details: https://www.jspgardentools.in/contact.php
-
-Information was checked on 26 October 2026. The current contact page/homepage gives the office postcode as 141013; an older about-page section gives 141003. This site uses the current contact listing. No opening hours, live prices, stock, performance ratings or customer testimonials have been invented.
-
-The photographs come from the official website at the user's request; all image rights remain with their respective owners. The nursery photograph is contextual garden imagery from that site and is not proof of a particular J.S.P facility. Original download URLs are preserved in `image-sources.json`.
-
-## Validation
 
 Run `python validate.py` from this directory for the local page, link, asset and configuration checks, and `node --test tests/auth-check.cjs` for the local profile logic tests. Browser checks cover catalogue filtering, product dialogs, enquiry-list persistence, draft preparation, downloads and responsive layouts. See `QA_NOTES.md` for the recorded results and limitations.
